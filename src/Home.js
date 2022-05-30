@@ -108,7 +108,7 @@ const Home = () => {
                                                     <div className="card-body">
                                                     <img src="images/ab2.jpg" alt="Avatar" class="image2"/>
   <div class="over2">
-   <div className="text">Every plate of food served by Masala Box is prepared using the freshest, top-quality ingredients based on authentic, regional recipes. Our food is also free from any kind of chemical-based colourants, taste enhancers or preservatives.</div>
+   <div className="text">Every plate of food served by MealBox is prepared using the freshest, top-quality ingredients based on authentic, regional recipes. Our food is also free from any kind of chemical-based colourants, taste enhancers or preservatives.</div>
   </div>
 </div>
                                                 </div>
@@ -121,7 +121,7 @@ const Home = () => {
                                             </div>
 
                                             <h1 class="mt-3" style={{color:'white'}}>MealBox</h1>
-                                            <p style={{color:'white'}}>Born from a quest for alternatives closer to the home and heart than eating out and ordering in, Masala Box is all about door delivering home-cooked meals and homemade delicacies. Each plate of food served through Masala Box is prepared using fresh, locally sourced produce in a home kitchen just like yours with authentic, regional recipes by real people with a passion for cooking.</p>
+                                            <p style={{color:'white'}}>Born from a quest for alternatives closer to the home and heart than eating out and ordering in, MealBox is all about door delivering home-cooked meals and homemade delicacies. Each plate of food served through Masala Box is prepared using fresh, locally sourced produce in a home kitchen just like yours with authentic, regional recipes by real people with a passion for cooking.</p>
                     </div>
         
 
